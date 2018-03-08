@@ -2,7 +2,7 @@
 Sentiment analysis of microblog data 
 
 ### Objective
-The sentiment of tweets is an important task that helps to determine the users’ perceptions of organizations, events or products. This assignment aims to develop a classifier to classify input stream of tweets into multiple sentiment classes (the simplest being just the positive, negative and neutral classes). One important resource in sentiment analysis is the dictionary of sentiment vocabulary, or sentiment lexicon, which may vary according to time (new sentiment terms may emerge) and classes or aspects (same term may have different sentiments with respect to different classes or aspects). Additionally, there are other data sources that will help enhance the project such as various social factors etc.
+To develop a classifier to classify input stream of tweets into multiple sentiment classes (positive, negative and neutral classes). One important resource in sentiment analysis is the dictionary of sentiment vocabulary, or sentiment lexicon, which may vary according to time (new sentiment terms may emerge) and classes or aspects (same term may have different sentiments with respect to different classes or aspects). Additionally, there are other data sources that will help enhance the project such as various social factors etc.
 
 ### Environment Setting
 Python 3.6.3 |Anaconda custom (64-bit)| (default, Oct 15 2017, 03:27:45) [MSC v.1900 64 bit (AMD64)]
